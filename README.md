@@ -1,7 +1,7 @@
 # Hi there 👋 Nermeen Tomoum
-<img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=NrmeenTomoum&show_icons=true&theme=radical&custom_title=Github%30Stats%30(Two%30Years%30Ago)&hide_rank=true&from=2021-05-01&to=2023-05-01&count_private=true'>
+<img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=NrmeenTomoum&show_icons=true&theme=radical&hide_rank=true&from=2021-05-01&to=2023-05-01&count_private=true'>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NrmeenTomoum&show_icons=true&theme=radical&count_private=true&custom_title=Github%30Stats%30(Two%30Years%30Ago)&hide_rank=true&from=2021-05-01&to=2023-05-01)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NrmeenTomoum&show_icons=true&theme=radical&count_private=true&hide_rank=true&from=2021-05-01&to=2023-05-01)
 
 - 📫 How to reach me:
   
